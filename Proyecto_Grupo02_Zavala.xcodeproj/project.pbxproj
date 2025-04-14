@@ -14,6 +14,8 @@
 		B70370F42DAD9C43002D6791 /* Proyecto_Grupo02_Zavala.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B70370F22DAD9C43002D6791 /* Proyecto_Grupo02_Zavala.xcdatamodeld */; };
 		B70370F62DAD9C44002D6791 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B70370F52DAD9C44002D6791 /* Assets.xcassets */; };
 		B70370F92DAD9C44002D6791 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B70370F72DAD9C44002D6791 /* LaunchScreen.storyboard */; };
+		B7299BBA2DADC618006EAFA1 /* RegistrarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7299BB82DADC618006EAFA1 /* RegistrarViewController.swift */; };
+		B7299BBB2DADC618006EAFA1 /* RegistrarViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B7299BB92DADC618006EAFA1 /* RegistrarViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		B70370F82DAD9C44002D6791 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B70370FA2DAD9C44002D6791 /* Proyecto_Grupo02_Zavala.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Proyecto_Grupo02_Zavala.entitlements; sourceTree = "<group>"; };
 		B70370FB2DAD9C44002D6791 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7299BB82DADC618006EAFA1 /* RegistrarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrarViewController.swift; sourceTree = "<group>"; };
+		B7299BB92DADC618006EAFA1 /* RegistrarViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RegistrarViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				B70370FA2DAD9C44002D6791 /* Proyecto_Grupo02_Zavala.entitlements */,
 				B70370FB2DAD9C44002D6791 /* Info.plist */,
 				B70370F22DAD9C43002D6791 /* Proyecto_Grupo02_Zavala.xcdatamodeld */,
+				B7299BB82DADC618006EAFA1 /* RegistrarViewController.swift */,
+				B7299BB92DADC618006EAFA1 /* RegistrarViewController.xib */,
 			);
 			path = Proyecto_Grupo02_Zavala;
 			sourceTree = "<group>";
@@ -132,6 +138,7 @@
 			files = (
 				B70370F92DAD9C44002D6791 /* LaunchScreen.storyboard in Resources */,
 				B70370F62DAD9C44002D6791 /* Assets.xcassets in Resources */,
+				B7299BBB2DADC618006EAFA1 /* RegistrarViewController.xib in Resources */,
 				B70370F12DAD9C43002D6791 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -144,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B70370EE2DAD9C43002D6791 /* ViewController.swift in Sources */,
+				B7299BBA2DADC618006EAFA1 /* RegistrarViewController.swift in Sources */,
 				B70370F42DAD9C43002D6791 /* Proyecto_Grupo02_Zavala.xcdatamodeld in Sources */,
 				B70370EA2DAD9C43002D6791 /* AppDelegate.swift in Sources */,
 				B70370EC2DAD9C43002D6791 /* SceneDelegate.swift in Sources */,
